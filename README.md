@@ -5,11 +5,11 @@ Organize your photos, by year/month they were taken
 Works for photos taken with Pixel phones (naming convention)
 
 Steps:
-Double click PhotoOrganizer.exe
-Browse through folders
-Select any file in the target directory
-The application will automatically use the parent folder of that file
-Click "Organize Photos"
+1. Double click PhotoOrganizer.exe
+2. Browse through folders
+3. Select any file in the target directory
+4. The application will automatically use the parent folder of that file
+5. Click "Organize Photos"
 Your photos will be sorted into folders by YYYY.MM format
 
 For Example:
